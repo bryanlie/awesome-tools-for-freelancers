@@ -7,12 +7,13 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 1. VueAI.tools
 
     Description: An open-source AI toolkit specifically for Vue.js. It provides a GPT-based assistant that helps generate Vue components and offers documentation support.
+   
     Features:
-        Component builder that converts JSON pseudo-code into Vue components.
-        Integration with Vue Router and Pinia for state management.
-    Website: VueAI.tools
+        - Component builder that converts JSON pseudo-code into Vue components.
+        - Integration with Vue Router and Pinia for state management.
+    Website: [VueAI.tools](https://vueai.tools/)
 
-2. Workik AI
+3. Workik AI
 
     Description: A free AI-powered code generator that assists with Vue.js development tasks.
     Features:
@@ -21,7 +22,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
         Automates repetitive tasks.
     Website: Workik AI
 
-3. CodeSandbox
+4. CodeSandbox
 
     Description: A popular online code editor that supports Vue.js and offers collaborative features.
     Features:
@@ -30,7 +31,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
         Community templates and examples to inspire your development.
     Website: CodeSandbox
 
-4. StackBlitz
+5. StackBlitz
 
     Description: An online IDE that supports Vue.js and allows you to build and deploy applications quickly.
     Features:
@@ -39,7 +40,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
         Collaboration features for team projects.
     Website: StackBlitz
 
-5. GitHub Copilot (Free for Students)
+6. GitHub Copilot (Free for Students)
 
     Description: While not exclusively for Vue.js, GitHub Copilot is an AI pair programmer that can help you write Vue.js code more efficiently.
     Features:
@@ -47,7 +48,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
         Can assist with Vue.js syntax and best practices.
     Website: GitHub Copilot
 
-6. Vue.js Devtools
+7. Vue.js Devtools
 
     Description: A browser extension that helps you debug and inspect Vue.js applications.
     Features:
@@ -56,7 +57,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
     Website: Vue.js Devtools
 
 
-7. More tools
+8. More tools
 
 - TeleportHQ: Allows you to build Vue.js websites visually, with features like drag-and-drop components and automated code generation.   
 - Gridsome: While not strictly AI-powered, Gridsome is a Vue-based static site generator that can simplify the creation of complex websites.  

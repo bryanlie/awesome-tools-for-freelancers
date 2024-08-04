@@ -23,3 +23,25 @@ https://www.langflow.org/
 
 
 https://github.com/wandb/openui
+
+Top-Tier Repositories for Learning Android Development in Kotlin:
+
+1. Awesome Android Learning Resources:
+
+    This repository curates a vast collection of resources, including code examples, tutorials, and articles.
+    Link: https://github.com/androiddevnotes/awesome-android-learning-resources
+
+2. Awesome Android Kotlin Apps:
+
+    A curated list of open-source Android apps built with Kotlin. Learn by studying real-world projects.
+    Link: https://github.com/androiddevnotes/awesome-android-kotlin-apps
+
+3. Android-Concepts-Reference-Kotlin:
+
+    Focuses on the core concepts of Android development in Kotlin without unnecessary complexity.
+    Link: https://github.com/DuartBreedt/Android-Concepts-Reference-Kotlin
+
+4. Android Jetpack Compose Examples:
+
+    A great starting point for learning Jetpack Compose, the modern toolkit for building native UI.
+    Link: https://github.com/android/compose-samples

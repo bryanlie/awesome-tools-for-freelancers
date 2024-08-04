@@ -13,7 +13,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
         - Component builder that converts JSON pseudo-code into Vue components.
         - Integration with Vue Router and Pinia for state management.
    
-    Website: [VueAI.tools](https://vueai.tools/)
+   Website: [VueAI.tools](https://vueai.tools/), [GitHub Repo](https://github.com/chris-paganon/vue-ai-tools)
 
 3. Workik AI
 

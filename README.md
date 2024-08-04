@@ -67,3 +67,14 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 - TeleportHQ: Allows you to build Vue.js websites visually, with features like drag-and-drop components and automated code generation.   
 - Gridsome: While not strictly AI-powered, Gridsome is a Vue-based static site generator that can simplify the creation of complex websites.  
 - Kontent.ai: A headless CMS that integrates well with Vue.js, offering a structured approach to content management and potentially speeding up development.
+
+
+## Android development and Kotlin
+
+- Kotlin in Action by Dmitry Jemerov and Svetlana Isakova: A deep dive into the Kotlin language.
+
+Website, free ebook [Kotlin in Action, Second Edition](https://www.manning.com/books/kotlin-in-action-second-edition), [sample code on Github](https://github.com/Kotlin/kotlin-in-action-2e)
+
+- Android developer
+
+Website: [compose](https://developer.android.com/courses/android-basics-compose/course)

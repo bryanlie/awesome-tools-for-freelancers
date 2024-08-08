@@ -15,7 +15,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
    
    Website: [VueAI.tools](https://vueai.tools/), [GitHub Repo](https://github.com/chris-paganon/vue-ai-tools)
 
-3. Workik AI
+2. Workik AI
 
     Description: A free AI-powered code generator that assists with Vue.js development tasks.
    
@@ -27,46 +27,20 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
    Website: [Workik AI](https://workik.com/)
 
-5. CodeSandbox
+3. Gridsome
 
-    Description: A popular online code editor that supports Vue.js and offers collaborative features.
-    Features:
-        Create and share Vue.js projects easily.
-        Built-in templates for quick start.
-        Community templates and examples to inspire your development.
-    Website: CodeSandbox
+Gridsome is an open-source static site generator powered by Vue.js, designed for building fast and secure static websites and applications. It leverages the JAMstack architecture, which stands for JavaScript, APIs, and Markup, to deliver high-performance web experiences by generating static HTML files that can be deployed anywhere, such as on a CDN.
 
-6. StackBlitz
+Features:
 
-    Description: An online IDE that supports Vue.js and allows you to build and deploy applications quickly.
-    Features:
-        Instant previews of your Vue.js applications.
-        Supports npm packages and has a rich library of templates.
-        Collaboration features for team projects.
-    Website: StackBlitz
+    - Performance Optimization: Gridsome includes features like code splitting, asset optimization, progressive images, and link prefetching by default. This ensures that websites built with Gridsome achieve nearly perfect page speed scores, which is beneficial for SEO and user experience.
+    - Data Sources: It supports integration with various data sources, including headless CMSs like Contentful, WordPress, and Drupal, as well as APIs and databases. This data is accessed through a unified GraphQL layer, allowing developers to fetch and manipulate data efficiently.
+    - Static Site Generation: Gridsome generates static Progressive Web Apps (PWAs), loading only critical HTML, CSS, and JavaScript initially, and prefetching subsequent pages. This approach allows for fast navigation without page reloads, even offline.
+    - Developer Tools: It comes with a CLI (Command Line Interface) for easy project setup and development. Developers can use modern tools like hot-reloading, Vue.js components, and CSS preprocessors like Sass or Less.
+    - SEO Benefits: Since Gridsome sites load as static HTML before hydrating into fully powered Vue.js applications, they are easily crawlable by search engines, thus improving SEO rankings.
 
-7. GitHub Copilot (Free for Students)
+   Website: [Gridsome](https://gridsome.org/)
 
-    Description: While not exclusively for Vue.js, GitHub Copilot is an AI pair programmer that can help you write Vue.js code more efficiently.
-    Features:
-        Suggests code snippets and functions based on context.
-        Can assist with Vue.js syntax and best practices.
-    Website: GitHub Copilot
-
-8. Vue.js Devtools
-
-    Description: A browser extension that helps you debug and inspect Vue.js applications.
-    Features:
-        Provides insights into component hierarchy and state.
-        Allows you to modify component data in real-time.
-    Website: Vue.js Devtools
-
-
-9. More tools
-
-- TeleportHQ: Allows you to build Vue.js websites visually, with features like drag-and-drop components and automated code generation.   
-- Gridsome: While not strictly AI-powered, Gridsome is a Vue-based static site generator that can simplify the creation of complex websites.  
-- Kontent.ai: A headless CMS that integrates well with Vue.js, offering a structured approach to content management and potentially speeding up development.
 
 
 ## Android development and Kotlin
@@ -78,3 +52,11 @@ Website, free ebook [Kotlin in Action, Second Edition](https://www.manning.com/b
 - Android developer
 
 Website: [compose](https://developer.android.com/courses/android-basics-compose/course)
+
+
+## Web Scraping
+
+1. EasySpider, A visual browser automation test/data collection/crawler software, which can be used to design and execute tasks in a code-free visual way. 
+
+[Github Link](https://github.com/NaiboWang/EasySpider)
+

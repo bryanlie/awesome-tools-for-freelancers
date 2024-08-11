@@ -49,3 +49,7 @@ Top-Tier Repositories for Learning Android Development in Kotlin:
     A great starting point for learning Jetpack Compose, the modern toolkit for building native UI.
    
     Link: https://github.com/android/compose-samples
+
+Software architecture
+
+https://github.com/domrost/software-architecture-resources

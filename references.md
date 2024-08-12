@@ -53,3 +53,6 @@ Top-Tier Repositories for Learning Android Development in Kotlin:
 Software architecture
 
 https://github.com/domrost/software-architecture-resources
+
+
+https://github.com/hwangblood/Android-Programming-The-Big-Nerd-Ranch-Guide

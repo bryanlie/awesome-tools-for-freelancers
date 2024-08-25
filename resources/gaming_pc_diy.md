@@ -70,3 +70,35 @@ GPU 	七彩虹（Colorful）火神iGame GeForce RTX 4090 Vulcan OC 24G DLSS 3 GD
 散热 	瓦尔基里(VALKYRIE）GL360 VK 一体式CPU水冷散热器 多平台扣具 支持LGA1700 ARGB光效 铝质冷头 	649
 机箱 	安钛克（Antec）Performance1 FT 初星 玻璃侧透 全塔机箱 Type-C 配4把PWM风扇 4090显卡 	829
 总计 		25332
+
+
+ CPU 		
+AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor
+CPU Cooler 		
+Deepcool AK620 ZERO DARK 68.99 CFM CPU Cooler
+Motherboard 		
+Asus ROG STRIX B650E-E GAMING WIFI ATX AM5 Motherboard
+Memory 		
+G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory
+Storage 		
+Silicon Power US70 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive
+Storage 		
+Western Digital WD_Black SN850X 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive
+Storage 		
+Silicon Power UD90 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive
+Video Card 		
+Asus TUF GAMING OC GeForce RTX 4090 24 GB Video Card
+Power Supply 		
+Corsair RM1000x (2021) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply
+
+Custom
+		
+DIY Computer Motherboard Case Rack, Test Bench Computer Case PC Test Bench，Vertical Overclocking Open Aluminum Frame Chassis Rack, Creative Personality ATX/M-ATX/ITX Open Chassis (ATX)
+
+Custom
+		
+CableMod Basics C-Series 12VHPWR PCI-e Cable for Corsair (Black, 16-pin to Quad 8-pin, 60cm)
+
+Custom
+		
+Okinos PCI-E 4.0 Riser Cable RTX4090 RX6950XT Tested PCIe 4.0 x16 High Speed Flexible Extender Card Extension Port 90 Degree Adapter Black 200mm Compatible with RTX4090, RTX4070ti, RTX3090ti,

@@ -124,8 +124,6 @@ Power Supply	EVGA SuperNOVA 1000 G6, 80 Plus Gold 1000W, Fully Modular, Eco Mode
 Total
 
 
-    PC Builder Part List: https://pcbuilder.net/rigs/9j6uAQ/
-
 1. Processor: AMD Ryzen 7 7800X3D, 8 Cores & 16 Threads Unlocked Desktop Processor without CPU Cooler ($338.99 @ Amazon US)
 
 2. Motherboard: ASUS Prime B650M-A AX II AMD B650 (Ryzen 7000, 2.5Gb LAN, Wi-Fi 6, DisplayPort, HDMI, USB 3.2 Gen 2, USB 3.2 Gen 1 Type-C) ($199.99 @ Amazon US)

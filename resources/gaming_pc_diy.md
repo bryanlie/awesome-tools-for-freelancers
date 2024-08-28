@@ -196,3 +196,6 @@ Network Card
     10 Gigabit Ethernet for fast data transfer
 
 This build focuses on the powerful AMD Ryzen 9 7950X CPU, which offers excellent multi-core performance for training large language models. The high-speed DDR5 RAM and fast NVMe storage will help in handling large datasets efficiently. The powerful GPU (whether AMD or NVIDIA) will accelerate model training. Ensure adequate cooling and power supply to maintain stability during long training sessions.
+
+
+NZXT Kraken Elite 360 RGB 78.02 CFM Liquid CPU Cooler

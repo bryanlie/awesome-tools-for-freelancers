@@ -199,3 +199,5 @@ This build focuses on the powerful AMD Ryzen 9 7950X CPU, which offers excellent
 
 
 NZXT Kraken Elite 360 RGB 78.02 CFM Liquid CPU Cooler
+
+NZXT H9 Flow ATX Mid Tower Case

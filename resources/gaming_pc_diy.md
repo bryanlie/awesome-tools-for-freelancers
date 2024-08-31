@@ -77,12 +77,7 @@ Case: NZXT H9 Flow ATX Mid Tower Case  ($159.97 @ Amazon)
 Power Supply: be quiet! Straight Power 12 1200 W 80+ Platinum Certified Fully Modular ATX Power Supply  ($199.90 @ Amazon) 
 
 Case Fan: Lian Li Uni Fan SL-Infinity 61.3 CFM 120 mm Fan  ($27.90 @ Amazon) 
-Case Fan: Lian Li Uni Fan SL-Infinity 61.3 CFM 120 mm Fans 3-Pack  ($78.00 @ iBUYPOWER) 
-Case Fan: Lian Li UNI FAN SL-INF Reverse Blade 63.6 CFM 120 mm Fan  ($27.90 @ Amazon) 
-Case Fan: Lian Li UNI FAN SL-INF Reverse Blade 63.6 CFM 120 mm Fan  ($27.90 @ Amazon) 
-Case Fan: Lian Li UNI FAN SL-INF Reverse Blade 63.6 CFM 120 mm Fan  ($27.90 @ Amazon) 
-Case Fan: Lian Li UNI FAN SL-INF Reverse Blade 63.6 CFM 120 mm Fan  ($27.90 @ Amazon) 
-Case Fan: Lian Li UNI FAN SL-INF Reverse Blade 63.6 CFM 120 mm Fan  ($27.90 @ Amazon) 
+
 Case Fan: Lian Li UNI FAN SL-INF Reverse Blade 63.6 CFM 120 mm Fan  ($27.90 @ Amazon) 
 
 

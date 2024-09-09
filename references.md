@@ -61,6 +61,7 @@ https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
 
 https://github.com/hwangblood/Android-Programming-The-Big-Nerd-Ranch-Guide
 
+## Vue 3
 
 https://github.com/sonicoder86/awesome-vue-3
 
@@ -73,3 +74,9 @@ https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free
 https://github.com/cosmicjs/vue-blog-netlify-template
 
 https://www.creative-tim.com/templates/vuejs-free?page=2
+
+## Free books
+
+https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb
+
+https://eloquentjavascript.net/

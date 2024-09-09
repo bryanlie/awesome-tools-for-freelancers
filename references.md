@@ -60,3 +60,16 @@ https://github.com/android/compose-samples/tree/main
 https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials
 
 https://github.com/hwangblood/Android-Programming-The-Big-Nerd-Ranch-Guide
+
+
+https://github.com/sonicoder86/awesome-vue-3
+
+https://dev.to/davidepacilio/20-awesome-websites-built-using-vue-js-1goo
+
+https://blog.logrocket.com/best-ui-frameworks-vue-3/
+
+https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free
+
+https://github.com/cosmicjs/vue-blog-netlify-template
+
+https://www.creative-tim.com/templates/vuejs-free?page=2

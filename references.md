@@ -80,3 +80,5 @@ https://www.creative-tim.com/templates/vuejs-free?page=2
 https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb
 
 https://eloquentjavascript.net/
+
+https://github.com/andkret/Cookbook

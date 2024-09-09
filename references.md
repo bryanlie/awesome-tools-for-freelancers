@@ -82,3 +82,5 @@ https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb
 https://eloquentjavascript.net/
 
 https://github.com/andkret/Cookbook
+
+https://duchesnay.github.io/pystatsml/

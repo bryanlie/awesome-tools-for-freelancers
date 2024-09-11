@@ -84,3 +84,23 @@ https://eloquentjavascript.net/
 https://github.com/andkret/Cookbook
 
 https://duchesnay.github.io/pystatsml/
+
+## Kotlin
+
+
+https://developer.android.com/courses/android-basics-kotlin/course
+
+
+https://kotlinlang.org/docs/android-overview.html
+
+https://hyperskill.org/tracks/18
+
+https://kotlinlang.org/docs/basic-syntax.html#creating-classes-and-instances
+
+https://kotlinlang.org/docs/android-overview.html
+
+https://developer.android.com/courses/pathways/android-basics-kotlin-three#codelab-https://developer.android.com/codelabs/basic-android-kotlin-training-birthday-card-app
+
+https://www.chosic.com/free-music/birthday/
+
+https://codersguidebook.com/how-to-create-an-android-app/play-sounds-music-android-app

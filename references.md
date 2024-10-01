@@ -104,3 +104,7 @@ https://developer.android.com/courses/pathways/android-basics-kotlin-three#codel
 https://www.chosic.com/free-music/birthday/
 
 https://codersguidebook.com/how-to-create-an-android-app/play-sounds-music-android-app
+
+Sending Text Messages Using Node.js and Twilio
+
+https://peeyushjss.medium.com/sending-text-messages-using-node-js-and-twilio-2fca6c8b30b2

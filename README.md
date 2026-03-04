@@ -52,8 +52,12 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 |--------------|-------------------------|------------------------|
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
 
+## Freelance Business Tools
 
-
-
-
+| **Website** | **Short Introduction** | **Link/GitHub Repo** |
+|-------------|------------------------|-----------------------|
+| ScopeShield | Track deliverables, log client change requests, and generate change orders to stop losing money to scope creep. | [ScopeShield](https://scopecreep-app.surge.sh) |
+| InvoiceChaser | Automated invoice follow-up sequences that escalate from friendly to firm — so you get paid without the awkward manual chasing. | [InvoiceChaser](https://invoicechaser-app.surge.sh) |
+| ContractGuard | Scan freelance contracts for missing clauses (kill fee, IP ownership, payment terms) before you sign. | [ContractGuard](https://contractguard-app.surge.sh) |
+| ProposalAI | Build professional client proposals fast — scope, timeline, pricing — and convert more leads. | [ProposalAI](https://proposalai-app.surge.sh) |
 

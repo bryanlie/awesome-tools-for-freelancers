@@ -57,3 +57,8 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 
 
 
+## Productivity & Utility Tools
+
+| **Website** | **Short Introduction** | **Link/GitHub Repo** |
+|-------------|------------------------|----------------------|
+| BeginThings | BeginThings offers 96+ free browser-based productivity tools for freelancers — including invoice generator, QR code maker, UTM builder, time tracker, Pomodoro timer, and more. No login or install required. | [BeginThings](https://beginthings.com) |

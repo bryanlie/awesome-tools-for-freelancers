@@ -45,13 +45,18 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | Flourish    | Flourish is a platform designed for creating interactive data visualizations easily, empowering users to present data insights effectively through customizable templates and tools. | [Flourish.studio](https://flourish.studio/) |
 | Napkin      | Napkin is a collaborative platform that enables teams to brainstorm and visualize ideas together in real-time, enhancing creative processes. | [Napkin](https://www.napkin.ai/) |
 
+## Testing Tools
+
+| **Website** | **Short Introduction** | **Link/GitHub Repo** |
+|-------------|------------------------|-----------------------|
+| Agent QA | Agent QA authors and runs natural-language regression tests for web, Android, and iOS applications with deterministic checks, optional LLM-based grading, and reviewable run evidence. | [Agent QA](https://github.com/vostride/agent-qa) |
+
 
 ## File Conversion and Processing Tools
 
 | **Website**  | **Short Introduction**  | **Link/GitHub Repo**  |
 |--------------|-------------------------|------------------------|
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
-
 
 
 

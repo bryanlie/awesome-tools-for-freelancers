@@ -1,4 +1,5 @@
 # awesome-tools-for-freelancers
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 Collect a list of tools for freelancers in AI, Data Science, Front end development, Mobile development and more. 
 ## Text Generation Tools
 

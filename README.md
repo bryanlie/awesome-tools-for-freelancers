@@ -51,6 +51,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website**  | **Short Introduction**  | **Link/GitHub Repo**  |
 |--------------|-------------------------|------------------------|
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
+| FileOnTap    | Browser-local free File Converter for images and PDFs (HEIC/WebP/PNG/JPG↔PDF); files never leave your device — no upload, no account. | [fileontap.com](https://fileontap.com/) |
 
 
 

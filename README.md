@@ -51,6 +51,7 @@ Collect a list of tools for freelancers in AI, Data Science, Front end developme
 | **Website**  | **Short Introduction**  | **Link/GitHub Repo**  |
 |--------------|-------------------------|------------------------|
 | Convertio    | Convertio is a versatile online file converter supporting over 300 formats, enabling users to convert files quickly and securely without consuming local resources.  | [Convertio.co](https://convertio.co/)  |
+| QuietTake Noise Remover | Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter, with no account or audio upload required. | [QuietTake](https://noiseremover.site/) |
 
 
 
